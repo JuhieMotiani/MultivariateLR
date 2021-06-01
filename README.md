@@ -33,7 +33,9 @@ Here, ‘m’ is the number of samples.
 
 ### Gradient Descent
 
-In very simple terms gradient descent is used to find the most optimum values of ⍬0, ⍬1, ⍬2 so that the cost function returns a minimum value.
+In very simple terms gradient descent is used to find the most optimum values of ⍬0, ⍬1, ⍬2. Here, the respective value of theta keeps changing with every iteration and eventually it reaches a minimum value. 
 
 <img width="335" alt="image" src="https://user-images.githubusercontent.com/66436217/120198970-54b86c00-c240-11eb-801d-2a87022e33d7.png">
+
+Hence, we repeat the process until an optimum is encountered.
 
